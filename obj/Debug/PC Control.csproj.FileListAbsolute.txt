@@ -1,0 +1,9 @@
+C:\Users\Łukasz\Documents\Projekt C\PC Control\bin\Debug\PC Control.exe
+C:\Users\Łukasz\Documents\Projekt C\PC Control\bin\Debug\PC Control.pdb
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC Control.csprojAssemblyReference.cache
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC_Control.pccontrol.resources
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC_Control.Properties.Resources.resources
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC Control.csproj.GenerateResource.cache
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC Control.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC Control.exe
+C:\Users\Łukasz\Documents\Projekt C\PC Control\obj\Debug\PC Control.pdb
